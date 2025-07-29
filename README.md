@@ -1,6 +1,6 @@
 # Headless WordPress React Frontend
 
-A modern, modular headless WordPress frontend built with React and powered by the WordPress REST API. This application demonstrates best practices for building scalable, maintainable single-page applications without requiring a build process.
+A modular headless WordPress frontend built with React and powered by the WordPress REST API. This application demonstrates best practices for building scalable, maintainable single-page applications without requiring a build process.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![React](https://img.shields.io/badge/React-18.x-61dafb.svg)
