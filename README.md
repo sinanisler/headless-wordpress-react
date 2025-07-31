@@ -482,21 +482,8 @@ Enable debug logging:
 console.log('API Response:', response.data);
 ```
 
-## Learning Resources
 
-### React
-- [React Documentation](https://react.dev/)
-- [React Hooks Guide](https://react.dev/learn/state-a-components-memory)
 
-### WordPress REST API
-- [WordPress REST API Handbook](https://developer.wordpress.org/rest-api/)
-- [REST API Reference](https://developer.wordpress.org/rest-api/reference/)
 
-### Tailwind CSS
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Tailwind UI Components](https://tailwindui.com/)
 
-### JavaScript ES6+
-- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [ES6 Features](https://github.com/lukehoban/es6features)
 
